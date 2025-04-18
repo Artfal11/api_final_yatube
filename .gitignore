@@ -149,5 +149,3 @@ dmypy.json
 media/
 yatube_api/posts/static/
 
-# миграции
-yatube_api/posts/migrations/
